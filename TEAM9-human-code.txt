@@ -1,0 +1,38 @@
+//CARICARE UNA FOTO SU INSTAGRAM
+
+Apro la galleria foto del telefono
+
+Scorro gli album fotografici
+    IF l'album è quello delle vacanze
+        - Seleziono l'album
+    ELSE
+        - Continuo a scorrere gli album
+
+Scorro le foto nell'album delle vacanze
+    IF se una foto mi piace
+        - Seleziono la foto
+    ELSE 
+        - Continuo a scorrere le foto
+
+Apro il menù filtri
+
+Scorro i filtri
+    IF il filtro mi piace
+        - Lo applico
+    ELSE
+        - Continuo a scorrere i filtri
+
+Apro il menù "Condividi"
+
+Scorro le applicazioni disponibili
+    IF è Instagram
+        - Lo Seleziono
+    ELSE
+        - Continuo a scorrere le applicazioni
+
+Scorro i tipi di pubblicazione
+    IF come post
+        - Clicco su Condividi
+    ELSE
+        - Continuo a scorrere i tipi...
+
